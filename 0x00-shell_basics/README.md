@@ -15,4 +15,5 @@ ln -s /bin/ls __ls__: creating a symbolic link
 cp -u *.html ../ : copying a file
 mv [a-z]* /tmp/u 
 rm *~: cleaning emacs
-mkdir -p welcome/to/school: create a folder inside an other 
+mkdir -p welcome/to/school: create a folder inside an other
+ls -apm | sort -d: sorting i
