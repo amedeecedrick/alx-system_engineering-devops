@@ -10,4 +10,5 @@ rm -r /tmp/my_first_directory/betty : delete file
 rm -r /tmp/my_first_directory: remove directory
 cd ..: go back
 ls -la . .. /bash: listing files
-file/temp/iam/iamafile: listing 
+file/temp/iam/iamafile: listing
+ln -s /bin/ls __ls__: creating a symbolic link 
