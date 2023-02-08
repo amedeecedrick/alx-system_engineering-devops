@@ -14,3 +14,4 @@ file/temp/iam/iamafile: listing
 ln -s /bin/ls __ls__: creating a symbolic link
 cp -u *.html ../ : copying a file
 mv [a-z]* /tmp/u 
+rm *~: cleaning emacs 
