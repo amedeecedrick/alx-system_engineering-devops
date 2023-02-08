@@ -8,3 +8,4 @@ ls -lan: listing files in directory with showing total number of file
 mv /tmp/betty /tmp/my_first_directory: move file 
 rm -r /tmp/my_first_directory/betty : delete file
 rm -r /tmp/my_first_directory: remove directory
+cd ..: go back
