@@ -4,3 +4,4 @@ groups: view all groups for user
 sudo chown betty hello: change owner of the file
 touch hello: add an empty file
 chmod 744 hello : change the owner of file to betty
+chmod 774 hello: give owner and group owner read write execute permission and read only access to the other user
