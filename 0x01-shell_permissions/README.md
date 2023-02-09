@@ -5,4 +5,4 @@ sudo chown betty hello: change owner of the file
 touch hello: add an empty file
 chmod 744 hello : change the owner of file to betty
 chmod 754 hello: give owner and group owner read write execute permission and read only access to the other user
-chmod 751 hello: grant access to all useer on your file
+chmod 755 hello: grant access to all useer on your file
