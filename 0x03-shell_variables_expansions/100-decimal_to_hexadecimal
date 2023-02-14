@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%X" DECIMAL
+printf "%0X" DECIMAL
